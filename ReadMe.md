@@ -1,7 +1,6 @@
 React Native äpi arenduse dokumentatsioon (StoreApp)
 
     Eeldused ja keskkonna seadistamine
-    Kristi
 
 Enne projekti loomist veenduti, et vajalikud tööriistad on paigaldatud:
 
