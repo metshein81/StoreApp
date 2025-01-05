@@ -1,0 +1,28 @@
+
+
+Loo äpp kasutades React Native raamistikku
+Tingimused:
+* äpp peaks vastama esimeses ülesandes mock up'is kirjeldatule+
+* äpis peaks olema vähemalt 4 vaadet+
+* vähemalt üks vaade peab sisaldama mingit listi Firebase andmebaasist
+* võib kasutada simuleerituid andmeid, kui muud varianti pole+
+* arenduse tulemusena peaks tekkima repositooriumisse ka Android telefonile installitav *.apk fail
+
+
+Kodutöö esitamine:
+
+Tähtajaks!
+Tehke oma Github'i repositooriumis teemapüstitus (issue) koos sisalduva lingiga koodile ja määrake (assign) kasutajale @tarmore - Tarmo Reinväli ning sildiks määrake "Kodutöö2".
+
+Arvestus
+Üliõpilane loob kursuse jooksul mobiilirakenduse, millel on vähemalt neli vaadet ning rakendus kasutab/kuvab andmeid eraldiseisvast tagarakendusest.
+
+Hindamine
+Arvestuse eelduseks on kodutööde tähtaegne esitamine.
+Kodutööd moodustavad 50% arvestuse lõpptulemusest.
+Arvestus koosneb kodutööde käigus tehtud mobiilirakenduse presenteerimisest, mis sisaldab:
+rakenduse vaadete näitamist
+koodi näidete näitamist (enim raskusi valmistanud kohad)
+mis üllatas positiivselt
+mis jäi tegemata (oskuste tõttu)
+esitlus 5-7 minutit + 2 minutit küsimusteks
